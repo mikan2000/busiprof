@@ -4,7 +4,7 @@
   
   ?>	
 <div class="container">
-  <?php if($current_options['service_heading_one']!='') {?>
+<!--  <?php if($current_options['service_heading_one']!='') {?>
   <div class="services_top_mn">
     <h2><?php echo esc_html($current_options['service_heading_one']);  ?>
       <?php } ?>
@@ -16,7 +16,7 @@
     <p>	<?php echo esc_html($current_options['service_tagline']); ?>
     </p>
     <?php } ?>
-  </div>
+  </div>-->
   <div class="row-fluid service_section">
     <div class="span3">
       <div class="services_cols_mn">
