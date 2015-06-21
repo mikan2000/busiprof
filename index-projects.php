@@ -1,4 +1,4 @@
-<?php get_header();		
+<!-- <?php get_header();		
   $current_options=get_option('busiprof_theme_options');		
   ?>
 <div class="services_mid_mn">
@@ -97,4 +97,4 @@
       </div>
     </div>
   </div>
-</div>
+</div>-->

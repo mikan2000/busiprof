@@ -84,7 +84,7 @@
     </div>
     
     
-    <div class="services_more_btn">
+    <!-- <div class="services_more_btn">
 	<?php if($current_options['service_link_btn']!='') {?>
       <a href="<?php echo esc_url($current_options['service_link_btn']); ?>">
       <?php } ?>	
@@ -92,5 +92,5 @@
       <?php echo esc_html($current_options['service_button_value']); ?></a>
       <?php } ?>	
     </div>
-  </div>
+  </div>-->
 </div>
